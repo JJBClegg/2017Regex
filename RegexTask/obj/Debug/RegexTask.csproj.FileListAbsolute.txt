@@ -1,6 +1,0 @@
-c:\users\john clegg\documents\visual studio 2017\Projects\RegexTask\RegexTask\bin\Debug\RegexTask.exe
-c:\users\john clegg\documents\visual studio 2017\Projects\RegexTask\RegexTask\bin\Debug\RegexTask.pdb
-c:\users\john clegg\documents\visual studio 2017\Projects\RegexTask\RegexTask\obj\Debug\RegexTask.csprojResolveAssemblyReference.cache
-c:\users\john clegg\documents\visual studio 2017\Projects\RegexTask\RegexTask\obj\Debug\RegexTask.exe
-c:\users\john clegg\documents\visual studio 2017\Projects\RegexTask\RegexTask\obj\Debug\RegexTask.pdb
-C:\Users\John Clegg\Documents\Visual Studio 2017\Projects\RegexTask\RegexTask\bin\Debug\RegexTask.exe.config
